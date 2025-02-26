@@ -1,1 +1,2 @@
-"Main branch conflict" 
+
+"Feature branch conflict" 
